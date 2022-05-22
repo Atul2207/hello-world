@@ -64,7 +64,6 @@ Course :
 
 <select>
 <option value="Course">Course</option>
-<option value="BCA">BCA</option>
 <option value="BBA">BBA</option>
 <option value="B.Tech">B.Tech</option>
 <option value="MBA">MBA</option>
